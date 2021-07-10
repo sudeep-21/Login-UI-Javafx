@@ -1,0 +1,21 @@
+.root {
+    -fx-font-family: "Montserrat";
+}
+
+#pane {
+    -fx-background-image: url("../images/menu.png");
+    -fx-font-size: 15;
+}
+
+.label {
+    -fx-font-size: 30;
+}
+
+.button {
+    -fx-text-fill: Black;
+    -fx-font-size: 25;
+}
+
+#message {
+    -fx-font-size: 50;
+}
