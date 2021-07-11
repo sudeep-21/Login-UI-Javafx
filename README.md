@@ -1,7 +1,7 @@
 # JavaFX-Login UI
 
 Learning elements of JavaFX.
-
+<!--
 Here is the executable if you want to try it out.
 
 | Operating System 	| Executable 	|
@@ -11,3 +11,4 @@ Here is the executable if you want to try it out.
 
 [login.exe]: https://example.com
 [login.jar]: https://example.com
+-->
